@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Im a juinor at Hunter College, graduating in 2020.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+im a pretty big comic book and superhero fan
 
