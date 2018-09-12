@@ -36,3 +36,4 @@ like this:
 
 > This repository belongs to ... and contains weekly blogs written ...
 
+Blog Website: <https://hunter-college-cs-ossd.github.io/shadow12ac-weekly/week01/>
