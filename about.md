@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Im a juinor at Hunter College, graduating in 2020.
+Im a student at Hunter College majoring in computer science and minoring in math, expecting to graduate in May 2020.
 
 ### More Information
 
